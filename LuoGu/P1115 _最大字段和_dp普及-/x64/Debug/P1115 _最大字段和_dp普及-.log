@@ -1,0 +1,3 @@
+﻿D:\3 Download Lion\Visual Studio 2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(P1115 _最大字段和_dp普及-.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  贪心.cpp
+  P1115 _最大字段和_dp普及-.vcxproj -> D:\1 learning\0_Algorithm\Algorithm exercises\LuoGu\All_practice\x64\Debug\P1115 _最大字段和_普及-.exe
